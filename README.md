@@ -1,0 +1,2 @@
+# zakwaswachinator_AndroidApp
+Android application for zakwaswachinator
